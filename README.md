@@ -1,6 +1,6 @@
 # analyze_apk plugin
 
-[![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-analyze_apk)
+[![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-analyze_apk) [![Gem Version](https://badge.fury.io/rb/fastlane-plugin-analyze_apk.svg)](https://badge.fury.io/rb/fastlane-plugin-analyze_apk)
 
 ## Getting Started
 
