@@ -7,7 +7,7 @@ module Fastlane
           version_code = ''
           version_name = ''
 
-          package_name_version_regex = 'package: name=\'(?<package_name>.*)\' versionCode=\'(?<version_code>.*)\' versionName=\'(?<version_name>.*)\' platformBuildVersionName='
+          package_name_version_regex = 'package: name=\'(?<package_name>\S*)\' versionCode=\'(?<version_code>\S*)\' versionName=\'(?<version_name>\S*)\''
           package_name_version_match = infos.match(package_name_version_regex)
 
           if package_name_version_match && package_name_version_match.captures
