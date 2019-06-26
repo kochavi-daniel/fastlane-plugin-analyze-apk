@@ -1,9 +1,14 @@
-# analyze_apk plugin
-
-[![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-analyze_apk) [![Gem Version](https://badge.fury.io/rb/fastlane-plugin-analyze_apk.svg)](https://badge.fury.io/rb/fastlane-plugin-analyze_apk) [![Total Downloads](http://ruby-gem-downloads-badge.herokuapp.com/fastlane-plugin-analyze_apk?type=total)](https://badge.fury.io/rb/fastlane-plugin-analyze_apk)
+<p align="center">
+    <img width="165" height="129" src="apk_analyzer.png" />
+    <h1 align="center">analyze_apk plugin</h1>
+</p>
+<p align="center">
+    <a href="https://rubygems.org/gems/fastlane-plugin-analyze_apk"><img src="https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg" /></a>
+    <a href="https://rubygems.org/gems/fastlane-plugin-analyze_apk"><img src="https://badge.fury.io/rb/fastlane-plugin-analyze_apk.svg" /></a>
+    <a href="https://rubygems.org/gems/fastlane-plugin-analyze_apk"><img src="http://ruby-gem-downloads-badge.herokuapp.com/fastlane-plugin-analyze_apk?type=total" /></a>
+</p>
 
 ## Getting Started
-
 This project is a [_fastlane_](https://github.com/fastlane/fastlane) plugin. To get started with `fastlane-plugin-analyze_apk`, add it to your project by running:
 
 ```bash
